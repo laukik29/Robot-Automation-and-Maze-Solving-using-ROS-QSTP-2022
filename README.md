@@ -17,7 +17,8 @@ OS: Ubuntu 16.04 /18.04 /20.04 | Ubuntu on Virtual Machine (for Windows) | ROS D
 Software: ROS [Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) (for Ubuntu 16.04) or ROS [Melodic](http://wiki.ros.org/kinetic/Installation/Ubuntu) (for Ubuntu 18.04) or ROS [Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu) (for Ubuntu 20.04)
 Python 2.7+ (usually pre-installed with Ubuntu OS)
 Useful Tools: [Git](https://git-scm.com/), [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/)
-Contributors
+
+## Contributors
 -Laukik B Nakhwa
 -Yash Yelmame
 -Manan Arora
