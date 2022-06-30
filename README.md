@@ -19,10 +19,11 @@ Python 2.7+ (usually pre-installed with Ubuntu OS)
 Useful Tools: [Git](https://git-scm.com/), [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/)
 
 ## Contributors
--Laukik B Nakhwa
--Yash Yelmame
--Manan Arora
-What is QSTP?
+- Laukik B Nakhwa
+- Yash Yelmame
+- Manan Arora
+
+## What is QSTP?
 Quark Summer Technical Projects (QSTP) is a platform where experienced BITS students (currently in their 2/3/4th year); part of the clubs or independently; mentor Project-centric Courses for other students over the summer.
 
 Please check out the QSTP'22 website for details on each project and further information. https://qstp.bitsquark.org/
