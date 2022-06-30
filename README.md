@@ -1,4 +1,4 @@
-# Robot-Automation-and-Maze-Solving-using-ROS-QSTP-2022
+# Robot Automation and Maze Solving using ROS QSTP 2022
 Course material of Robot Automation and Maze Solving using ROS QSTP 2022
 
 This repository contains all material from the Robot Automation using ROS summer course taught by [Laukik B Nakhwa](https://github.com/laukik29), [Yash Yelmame](https://github.com/TheRandomizer7), [Manan Arora](https://github.com/Manaro-Alpha) as part of the QSTP initiative. Automation and Control in Robotics is a fast growing field with exciting innovations coming out with a rapid pace. In this course we hope to familiarise you with the basic tools and techniques that are at the core of such developments.
