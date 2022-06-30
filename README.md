@@ -18,11 +18,10 @@ Software: ROS [Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) (for Ub
 Python 2.7+ (usually pre-installed with Ubuntu OS)
 Useful Tools: [Git](https://git-scm.com/), [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/)
 Contributors
-Laukik B Nakhwa
-Yash Yelmame
-Manan Arora
+-Laukik B Nakhwa
+-Yash Yelmame
+-Manan Arora
 What is QSTP?
 Quark Summer Technical Projects (QSTP) is a platform where experienced BITS students (currently in their 2/3/4th year); part of the clubs or independently; mentor Project-centric Courses for other students over the summer.
-Quark Summer Technical Projects (QSTP) in association with GDG (Google Developers Group) & WTM (Women Techmakers) Goa is open for participation from all students irrespective of their branch and year of study.
 
 Please check out the QSTP'22 website for details on each project and further information. https://qstp.bitsquark.org/
